@@ -1,0 +1,14 @@
+$ git log --oneline --all --graph --decorate
+* 99d6301 (origin/master, master) Add commit history
+* e84e5af Add history
+* 80d8f96 (HEAD -> task2) Add readme file
+| *   1fb40c1 (task1) Somewhere is a joint Merge branch 'task1' of github.com:Andrei3465/refactored-guide into task1
+| |\
+| | * 9a67477 (origin/task1) clone repo
+| * | babe865 File changes first
+| |/
+| * 836ef0a "New file first3.txt"
+| * 5607385 Add new file
+|/
+* 6623b5f Initial commit
+
