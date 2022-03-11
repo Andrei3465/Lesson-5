@@ -1,0 +1,214 @@
+ 
+$ history
+    1  pwd
+    2  cd
+    3  ls
+    4  git ==version
+    5  pwd
+    6  mkdir java37-git-repo/
+    7  cd java37-git-repo/
+    8  pwd
+    9  git init
+   10  git config --global user.email "a.khlapitski@gmail.com"
+   11  git config --global user.name "Andrei3465"
+   12  touch file1.txt
+   13  11
+   14  vim file1.txt
+   15  less file1.txt
+   16  cat file1.txt
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "Initnal commit"
+   21  git status
+   22  git log
+   23  vim song.txt
+   24  vim file1.txt
+   25  git status
+   26  git diff file1.txt
+   27  vim file1.txt
+   28  git add song.txt
+   29  git status
+   30  git commit -m "Add song"
+   31  git log --online
+   32  git remoote aad origin git@github.com:Andrei3465/test-git-lesson.git
+   33  git remote -v
+   34  git status
+   35  git push
+   36  git push -u origin master
+   37  vim newfile.txt
+   38  git push
+   39  git commit -a
+   40  git clone git@github.com:Andrei3465/Khlapitski-lesson4.git
+   41  cd kh
+   42  git log
+   43  git log --online
+   44  git config --global
+   45  system.out.println
+   46  ll
+   47  git log | less
+   48  git add.
+   49  history > less
+   50  history | less
+   51  git config --global user.name "Andrei Khlapitski"
+   52  git config --global user.email "a.khlapitski@gmail.com"
+   53  git config --global user.email
+   54  git config --global user.name
+   55  git log
+   56  cd
+   57  cd\user
+   58  cd/Users
+   59  git info
+   60  cd\Users\brabu
+   61  cd\Users\brabu
+   62  cd\Users\brabu;
+   63  git remote
+   64  git fetch
+   65  git pull
+   66  pwd
+   67  cd\java37
+   68  ls
+   69  pwd
+   70  mkdir
+   71  mkdir Khlapitski-git-repo
+   72  cd Khlapitski-git-repo
+   73  pwd
+   74  git init
+   75  ls
+   76  ls -la
+   77  ll
+   78  ls -la
+   79  ls
+   80  git remote add origin git@github.com:Andrei3465/refactored-guide.git
+   81   git branch -M main
+   82  git push -u origin main
+   83  pwd
+   84  ppwd
+   85  pwd
+   86  pwd
+   87  mkdir Khlapitski-git-repo
+   88  pwd
+   89  cd Khlapitski-git-repo
+   90  git init
+   91  git remote add origin git@github.com:Andrei3465/refactored-guide.git
+   92  git remote -v
+   93  touch first.txt
+   94  git add first.txt
+   95  git commit -m "Initial commit"
+   96  git log
+   97  git status
+   98  git branch -a
+   99  git branch task1
+  100  git branch -a
+  101  git checkaut task1
+  102  git checkout task1
+  103  touch first2.txt
+  104  git add first2.txt
+  105  git commit -m "Add new file"
+  106  vim first2.txt
+  107  git add first2.txt
+  108  git status
+  109  touch first3.txt
+  110  git add first3.txt
+  111  git commit
+  112  git push
+  113  git push -u origin task1
+  114  git status
+  115  git branch -a
+  116  git remote -v
+  117  git push
+  118  git push --set-upstream origin task1
+  119  git push --set-upstream origin task1
+  120  ssh-keygen -t rsa -C "a.khlapitski@gmail.com"
+  121  git push --set-upstream origin task1
+  122  git push --set-upstream origin task1
+  123  cd..
+  124  git checkout master
+  125  pwd
+  126  cd.
+  127  cd c/Users/brabu
+  128  cd c/Users/brabu/
+  129  cd..
+  130  cd ..
+  131  pwd
+  132  mkdir newCatalog-git-repo
+  133  pwd
+  134  cd c/Users/brabu/newCatalog-git-repo
+  135  cd newCatalog-git-repo
+  136  git clone git@github.com:Andrei3465/refactored-guide.git
+  137  cd git-demo/
+  138  ls
+  139  cd refactored-guide/
+  140  touch first4.txt
+  141  vim first2.txt
+  142  git add
+  143  git status
+  144  git add.
+  145  git add .
+  146  git status
+  147  git commit -m "clone repo"
+  148  git checkout master
+  149  git push
+  150  git checkout master
+  151  cd Khlapitski-git-repo
+  152  cd ..
+  153  cd ..
+  154  cd Khlapitski-git-repo
+  155  git push
+  156  git push -u origin master
+  157  git fetch
+  158  cd ..
+  159  cd refactored-guide/
+  160  pwd
+  161  cd newCatalog-git-repo
+  162  cd refactored-guide/
+  163  git fetch
+  164  git checkout master
+  165  touch readme.md
+  166  git branch -a
+  167  git log
+  168  git log --online
+  169  git log -online
+  170  git log --online --all
+  171  vim readme.md
+  172  git add readme.md
+  173  git commit -m "Add readme file"
+  174  git push
+  175  cd ..
+  176  cd ..
+  177  cd Khlapitski-git-repo
+  178  git fetch
+  179  git checkout task1
+  180  vim first.txt
+  181  git commit -m "File changes first"
+  182  git commit -a
+  183  git push
+  184  git pull
+  185  git fetch
+  186  cd ..
+  187  cd refactored-guide/
+  188  cd newCatalog-git-repo
+  189  cd refactored-guide/
+  190  git fetch
+  191  cd ..
+  192  cd ..
+  193  cd Khlapitski-git-repo
+  194  git fetch
+  195  git checkout master
+  196  git fetch
+  197  git pull
+  198  git log --online -a
+  199  git log --oneline
+  200  git log --oneline --a
+  201  git log --oneline --all
+  202  git branch task2
+  203  git history
+  204  git touch history.txt
+  205  touch history.txt
+  206  git log
+  207  vim history.txt
+  208  git log --oneline --all --graph --decorate
+  209  vim history.txt
+  210  vim history.txt
+  211  history
+
